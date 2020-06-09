@@ -1,0 +1,29 @@
+{
+  "add_emp": {
+    "username": "杨利伟111",
+    "mobile": "19846890423",
+    "success": true,
+    "code": 10000,
+    "message": "操作成功",
+    "http_code": 200
+  },
+  "query_emp": {
+    "success": true,
+    "code": 10000,
+    "message": "操作成功",
+    "http_code": 200
+  },
+  "modify_emp": {
+    "username": "周星驰",
+    "success": true,
+    "code": 10000,
+    "message": "操作成功",
+    "http_code": 200
+  },
+  "delete_emp": {
+    "success": true,
+    "code": 10000,
+    "message": "操作成功",
+    "http_code": 200
+  }
+}

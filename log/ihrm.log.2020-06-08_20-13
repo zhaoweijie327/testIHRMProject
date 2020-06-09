@@ -1,0 +1,5 @@
+2020-06-08 20:13:41,041 INFO [root] [__init__.py(<module>:10)] - Test日志会不会打印！！！
+2020-06-08 20:13:41,293 INFO [root] [test_emp_params.py(test01_login_success:30)] - 登录接口返回的结果为：{'success': True, 'code': 10000, 'message': '操作成功！', 'data': '44ced710-f945-4ebf-bb51-f5e6e3932bfb'}
+2020-06-08 20:13:41,293 INFO [root] [test_emp_params.py(test01_login_success:36)] - 保存到全局变量中的请求头为：{'Content-Type': 'application/json', 'Authorization': 'Bearer 44ced710-f945-4ebf-bb51-f5e6e3932bfb'}
+2020-06-08 20:13:41,294 INFO [root] [test_emp_params.py(test02_add_emp:46)] - app.HEADERS的值是：{'Content-Type': 'application/json', 'Authorization': 'Bearer 44ced710-f945-4ebf-bb51-f5e6e3932bfb'}
+2020-06-08 20:13:41,330 INFO [root] [test_emp_params.py(test02_add_emp:50)] - 添加员工的结果为：{'success': False, 'code': 99999, 'message': '抱歉，系统繁忙，请稍后重试！', 'data': None}
